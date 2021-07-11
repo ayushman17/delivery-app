@@ -157,7 +157,7 @@ const App = () => {
       recalculateRoutes()
     })
 
-    return () => map.remove()
+    return
   }, [longitude, latitude])
   return (
     <>
