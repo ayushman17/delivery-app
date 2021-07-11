@@ -1,0 +1,50 @@
+body {
+  background-image: url(/src/img/bg.png);
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 4px;
+  font-size: 28px;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: burlywood;
+  color: black;
+  text-align: center;
+  padding: 5px;
+}
+
+.app {
+  height: 600px;
+  width: 100vh;
+  border: solid 4px black;
+
+}
+
+.map {
+  height: 100%;
+  width: 100%;
+}
+
+.marker {
+  background-image: url('img/delivery-boy.png');
+  background-size: cover;
+  width: 24px;
+  height: 24px;
+  border-radius: 11px;
+  border: solid 4px cyan;
+}
+
+.marker-delivery {
+  background-image: url('img/pin-drop.png');
+  width: 20px;
+  height: 20px;
+}
