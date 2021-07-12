@@ -35,7 +35,7 @@ This project was bootstrapped with Create React App.
 
 
 ## 🕹 LAUNCH PROJECT (Demo)
-👉 [Delivery App](/).
+👉 [Delivery Web App](https://delivery-web-app.netlify.app/).
 
 
 ## Contributing
